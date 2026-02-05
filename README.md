@@ -17,3 +17,22 @@ This project implements a real-time object tracking system using OpenCV’s CSRT
 1. Install dependencies:
    ```bash
    pip install opencv-contrib-python
+
+2. Select the object using mouse, then press ENTER or SPACE.
+
+3. Press r to reselect object, q to quit.
+
+📌 Use Case
+
+This project demonstrates fundamental concepts of computer vision, including ROI selection, correlation-based tracking, and real-time video processing, making it suitable for applications in surveillance, robotics, and human-computer interaction.
+
+👩‍💻 Author
+
+Ramya Sharma
+
+
+Then run:
+```bash
+git add README.md
+git commit -m "Add README for object tracking project"
+git push
