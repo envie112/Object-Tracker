@@ -29,10 +29,3 @@ This project demonstrates fundamental concepts of computer vision, including ROI
 👩‍💻 Author
 
 Ramya Sharma
-
-
-Then run:
-```bash
-git add README.md
-git commit -m "Add README for object tracking project"
-git push
